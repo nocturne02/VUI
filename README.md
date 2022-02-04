@@ -49,3 +49,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
          1. HTML
          2. MarkDown
    2. 알고리즘 빌더
+
+# 기획
+
+```
+https://www.figma.com/file/xGNcLB3TZHg5AO5o5tCjkO/%EC%9D%B4%EC%A0%95%EC%9C%A4-%EB%B3%91%EC%9B%90?node-id=77%3A644
+```
