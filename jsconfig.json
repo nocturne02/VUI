@@ -3,7 +3,8 @@
     "baseUrl": ".",
     "paths": {
       "~/*": ["./*"],
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "#/*": ["./src/views/mobile/*"]
     }
   },
   "exclude": ["node_modules", "dist"]
